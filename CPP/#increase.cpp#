@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+void increase(void *u,int v)
+{if ()
+}
+int main()
+{int a = 420;
+  char b = 'f';
+  int *p = &a;
+  char *q = &b;
+  int r = sizeof(a);
+  int s = sizeof(b);
+  
+}
